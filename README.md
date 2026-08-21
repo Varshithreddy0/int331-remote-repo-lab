@@ -1,6 +1,6 @@
 # int331-remote-repo-lab
 This is my INT331 Git practical.
 MY name is VARSHITH REDDY.
-I am studying Btech CSE Vat LPU.
+I am studying Btech CSE at LPU.
 
 
